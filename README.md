@@ -25,28 +25,21 @@ Sure, here are the login details for your Restaurant Order System:
 
 **User Mode: Current User Mode**
 
-- Username: mizlqrn00
-- Password: is_donut3
+| Username        | Password     |
+|-----------------|--------------|
+| mizlqrn00       | is_donut3    |
+| izzamharith     | Jamcem       |
+| azrulazmii      | ackermann    |
+| AzimNazlen      | Jackdaw      |
+| farithhaikal69  | farithGd96   |
+| harishaikal29   | kafka2911    |
 
-- Username: izzamharith
-- Password: Jamcem
-
-- Username: azrulazmii
-- Password: ackermann
-
-- Username: AzimNazlen
-- Password: Jackdaw
-
-- Username: farithhaikal69
-- Password: farithGd96
-
-- Username: harishaikal29
-- Password: kafka2911
+You can copy and paste this table directly into your GitHub readme to make it clear and organized for users to see and use.
 
 **User Mode: Admin Mode**
-
-- Username: haifia.co
-- Password: 008975
+| Username        | Password     |
+|-----------------|--------------|
+| haifia.co       | 008975       |
 
 Please note that the usernames and passwords provided are for testing purposes only. Users can use these credentials to log in and explore the functionality of our Restaurant Order System.
 
