@@ -38,7 +38,9 @@ Sure, here are the login details for your Restaurant Order System:
 | Username        | Password     |
 |-----------------|--------------|
 | haifia.co       | 008975       |
+| ain.co          | 008975       |*
 
+*Use this login details to end the system.
 Please note that the usernames and passwords provided are for testing purposes only. Users can use these credentials to log in and explore the functionality of our Restaurant Order System.
 
 ## Contributing
