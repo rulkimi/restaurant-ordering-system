@@ -1,4 +1,4 @@
-# Restaurant Order System
+# Restaurant Ordering System
 
 Welcome to the Restaurant Order System repository! This is a simple command-line-based restaurant ordering system implemented in C. It allows customers to place orders for various food items, drinks, desserts, and set meals. The system also offers a member login feature, bill generation, and payment processing. Additionally, there's an admin mode for viewing gross profits.
 
