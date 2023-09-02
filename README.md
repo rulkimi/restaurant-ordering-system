@@ -34,8 +34,6 @@ Sure, here are the login details for your Restaurant Order System:
 | farithhaikal69  | farithGd96   |
 | harishaikal29   | kafka2911    |
 
-You can copy and paste this table directly into your GitHub readme to make it clear and organized for users to see and use.
-
 **User Mode: Admin Mode**
 | Username        | Password     |
 |-----------------|--------------|
